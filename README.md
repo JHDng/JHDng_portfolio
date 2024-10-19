@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tommDng
+- 👋 Hi, I’m @JHDng
 - 👀 I’m interested in gaming and programming
 - 📘 I'm studying computer engineering at Politecnico di Milano
 - 🌱 I’m currently learning how to create a game from scratch using Unity and C#
